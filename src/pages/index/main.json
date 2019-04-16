@@ -1,0 +1,8 @@
+
+  {
+    "usingComponents": {
+      "van-icon": "../../static/vant/icon/index",
+      "van-row": "../../static/vant/row/index",
+      "van-col": "../../static/vant/col/index"
+    }
+  }

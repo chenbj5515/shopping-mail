@@ -1,0 +1,6 @@
+/**
+ * student  api
+ */
+export default  {
+   
+}
